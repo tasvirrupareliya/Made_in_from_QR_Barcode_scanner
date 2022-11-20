@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Made In from: Product Country of Origin</string>
+
+    <!--fb ads id-->
+    <string name="banner_id">574828416736705_574829206736626</string>
+    <string name="interstitial_id">574828416736705_575426990010181</string>
+
+    <!--<string name="banner_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name="interstitial_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
+
+    <string name="share_app">Scan Barcode and know the Product origin Country name \nclick here to try it : https://play.google.com/store/apps/details?id=com.rupareliya.madeinindiaqrbarcodescanner</string>
+</resources>

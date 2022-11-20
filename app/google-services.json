@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424046612438",
+    "firebase_url": "https://made-in-india-barcode-scanner.firebaseio.com",
+    "project_id": "made-in-india-barcode-scanner",
+    "storage_bucket": "made-in-india-barcode-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424046612438:android:39a89a9c009ad0de1cde77",
+        "android_client_info": {
+          "package_name": "com.rupareliya.madeinindiaqrbarcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424046612438-gv8175g9g0kqehpkaf57tq2b1mnq4irf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZxYeS-JhR5CErhcY7Vqlgkp1WJKfwiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424046612438-gv8175g9g0kqehpkaf57tq2b1mnq4irf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
